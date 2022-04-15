@@ -381,3 +381,8 @@ img {
 .bottom-spacing {
   margin-bottom: 30px;
 }
+
+#profile {
+  width: 100%;
+  height: auto;
+}
